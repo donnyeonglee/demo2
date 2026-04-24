@@ -26,6 +26,7 @@ public class Demo2Application {
         return "Application is running1";
     }
 
-
-
+    public String getC() {
+        return "C";
+    }
 }
