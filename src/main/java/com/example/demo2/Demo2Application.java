@@ -32,7 +32,7 @@ public class Demo2Application {
     public String getB() {
         return "B";
     }
-    public String getC() {
-        return "C";
+    public String getD() {
+        return "D";
     }
 }
